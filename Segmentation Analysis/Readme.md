@@ -1,4 +1,4 @@
-- The Company -
+- *The Company* -
 Consider a well-established company operating in the retail food sector. Presently they have around 
 several hundred thousand registered customers and serve almost one million consumers a year. 
 They sell products from 5 major categories: wines, rare meat products, exotic fruits, specially 
@@ -9,14 +9,14 @@ company’s website. Globally, the company had solid revenues and a healthy bott
 several strategic initiatives are being considered to invert this situation. One is to improve the 
 performance of marketing activities, with a special focus on marketing campaigns. 
 
-- The marketing department - 
+- *The marketing department* - 
 The marketing department was pressured to spend its annual budget more wisely. The CMO 
 perceives the importance of having a more quantitative approach when taking decisions, reason why 
 a small team of data scientists was hired with a clear objective in mind: to build a predictive model 
 which will support direct marketing initiatives. Desirably, the success of these activities will prove the 
 value of the approach and convince the more skeptical within the company. 
 
-- The objective - 
+- *The objective* - 
 The objective of the team is to build a predictive model that will produce the highest profit for the 
 next direct marketing campaign, scheduled for the next month. The new campaign, sixth, aims at 
 selling a new gadget to the Customer Database. To build the model, a pilot campaign involving 2.240 
@@ -32,7 +32,7 @@ profitable. Moreover, other than maximizing the profit of the campaign, the CMO 
 understanding to study the characteristic features of those customers who are willing to buy the 
 gadget. 
 
-- The data  -
+- *The data*  -
 The data set contains socio-demographic and firmographic features about 2.240 customers who 
 were contacted. Additionally, it contains a flag for those customers who responded the campaign, 
 by buying the product.
