@@ -39,30 +39,30 @@ by buying the product.
 
 Variables in data frame:
 
-AcceptedCmp1 : 1 if customer accepted order in 1st campaign, 0 otherwise
-AcceptedCmp2 : 1 if customer accepted order in 2nd campaign, 0 otherwise
-AcceptedCmp3 : 1 if customer accepted order in 3rd campaign, 0 otherwise
-AcceptedCmp4 : 1 if customer accepted order in 4th campaign, 0 otherwise
-AcceptedCmp5 : 1 if customer accepted order in 5th campaign, 0 otherwise
-Complain : 1 if customer complained in the last 2 years
-Dt_Customer : date of custoemr enrollement with the company
-Education : customer level of education
-ID : primary key
-Income : customer yearly household income
-Kidhome : number of small children in customer's household
-Marital_Status : customer marital status
-MntFishProducts : amount spent in fish products in the last 2 years
-MntFruits : amount spent in fruits products in the last 2 years
-MntGoldProds : amount spent in gold (premium - may be either meat, fruit, fish, sweet or wine) products in the last 2 years
-MntMeatProducts : amount spent in meat products in the last 2 years
-MntSweetProducts : amount spent in sweet products in the last 2 years
-MntWines : amount spent in wine products in the last 2 years
-NumCatalogPurchases : number of purchases made using catalogue
-NumDealsPurchases : 
-NumStorePurchases : number of purchases made directly in a physical store
-NumWebPurchases : number of purchases made through company website
-NumWebVisitsMonth : number of visits to company's web site in the last month
-Recency : number of days since the last purchase
-Response (target): 1 if customer accepted the offer in the last campaign, 0 otherwise
-Teenhome : number of teens in customer's household
+- AcceptedCmp1 : 1 if customer accepted order in 1st campaign, 0 otherwise
+- AcceptedCmp2 : 1 if customer accepted order in 2nd campaign, 0 otherwise
+- AcceptedCmp3 : 1 if customer accepted order in 3rd campaign, 0 otherwise
+- AcceptedCmp4 : 1 if customer accepted order in 4th campaign, 0 otherwise
+- AcceptedCmp5 : 1 if customer accepted order in 5th campaign, 0 otherwise
+- Complain : 1 if customer complained in the last 2 years
+- Dt_Customer : date of custoemr enrollement with the company
+- Education : customer level of education
+- ID : primary key
+- Income : customer yearly household income
+- Kidhome : number of small children in customer's household
+- Marital_Status : customer marital status
+- MntFishProducts : amount spent in fish products in the last 2 years
+- MntFruits : amount spent in fruits products in the last 2 years
+- MntGoldProds : amount spent in gold (premium - may be either meat, fruit, fish, sweet or wine) products in the last 2 years
+- MntMeatProducts : amount spent in meat products in the last 2 years
+- MntSweetProducts : amount spent in sweet products in the last 2 years
+- MntWines : amount spent in wine products in the last 2 years
+- NumCatalogPurchases : number of purchases made using catalogue
+- NumDealsPurchases : 
+- NumStorePurchases : number of purchases made directly in a physical store
+- NumWebPurchases : number of purchases made through company website
+- NumWebVisitsMonth : number of visits to company's web site in the last month
+- Recency : number of days since the last purchase
+- Response (target): 1 if customer accepted the offer in the last campaign, 0 otherwise
+- Teenhome : number of teens in customer's household
 Year_Birth : Year the client has been born
