@@ -1,3 +1,11 @@
+# Case Study: Predictive Marketing Model for Retail Food Sector
+
+**This project presents a case study on predictive modeling for marketing campaigns in the retail food sector. In this scenario, the goal is to build a predictive model that helps a well-established food retail company optimize its direct marketing strategies, increasing profitability and better targeting customers likely to purchase specific products. The company is experiencing stagnant profit growth and hopes to improve the performance of its marketing efforts through data-driven decisions.**
+
+In this repository, you will find the detailed steps involved in building a predictive model using customer data, socio-demographic, and firmographic variables. The focus is to identify high-potential customers for the upcoming marketing campaign, minimizing costs and maximizing return on investment.
+
+Continue reading to explore the project breakdown, starting with the business context, marketing department's objective, data description, and model approach.
+
 - *The Company* -
 Consider a well-established company operating in the retail food sector. Presently they have around 
 several hundred thousand registered customers and serve almost one million consumers a year. 
